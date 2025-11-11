@@ -1,10 +1,10 @@
-# Pastelaria API (Laravel)
+# apiTest (Laravel)
 
 ## Requisitos
 - Docker & docker-compose
 - PHP 8.3
-- MYSQL 8.0
-- NGINX 
+- Mysql 8.0
+- Nginx 
 - Composer (se rodar local)
 
 ## Instalação rápida com Docker
